@@ -1,0 +1,93 @@
+<?xml version="1.0" ?>
+<characters>
+    <character name = "Pingouin" icons-folder = "resources/pingouin" img-type = "gif">
+        <img>stop</img>
+        <img>right1</img>
+        <img>right2</img>
+        <img>right3</img>
+        <img>left1</img>
+        <img>left2</img>
+        <img>left3</img>
+        <img>forward1</img>
+        <img>forward2</img>
+        <img>forward3</img>
+        <img>backward1</img>
+        <img>backward2</img>
+        <img>backward3</img>
+    </character>
+    <character name = "Prince" icons-folder = "resources/prince" img-type = "jpg">
+        <img>stop</img>
+        <img>right1</img>
+        <img>right2</img>
+        <img>right3</img>
+        <img>left1</img>
+        <img>left2</img>
+        <img>left3</img>
+        <img>forward1</img>
+        <img>forward2</img>
+        <img>forward3</img>
+        <img>backward1</img>
+        <img>backward2</img>
+        <img>backward3</img>
+    </character>
+    <character name = "Princesse" icons-folder = "resources/princesse" img-type = "jpg">
+        <img>stop</img>
+        <img>right1</img>
+        <img>right2</img>
+        <img>right3</img>
+        <img>left1</img>
+        <img>left2</img>
+        <img>left3</img>
+        <img>forward1</img>
+        <img>forward2</img>
+        <img>forward3</img>
+        <img>backward1</img>
+        <img>backward2</img>
+        <img>backward3</img>
+    </character>
+     <character name = "Witcher" icons-folder = "resources/witcher" img-type = "jpg">
+        <img>stop</img>
+        <img>right1</img>
+        <img>right2</img>
+        <img>right3</img>
+        <img>left1</img>
+        <img>left2</img>
+        <img>left3</img>
+        <img>forward1</img>
+        <img>forward2</img>
+        <img>forward3</img>
+        <img>backward1</img>
+        <img>backward2</img>
+        <img>backward3</img>
+    </character>
+     <character name = "Ninja1" icons-folder = "resources/ninja1" img-type = "jpg">
+        <img>stop</img>
+        <img>right1</img>
+        <img>right2</img>
+        <img>right3</img>
+        <img>left1</img>
+        <img>left2</img>
+        <img>left3</img>
+        <img>forward1</img>
+        <img>forward2</img>
+        <img>forward3</img>
+        <img>backward1</img>
+        <img>backward2</img>
+        <img>backward3</img>
+    </character>
+    <character name = "Monster1" icons-folder = "resources/monster1" img-type = "jpg">
+        <img>stop</img>
+        <img>right1</img>
+        <img>right2</img>
+        <img>right3</img>
+        <img>left1</img>
+        <img>left2</img>
+        <img>left3</img>
+        <img>forward1</img>
+        <img>forward2</img>
+        <img>forward3</img>
+        <img>backward1</img>
+        <img>backward2</img>
+        <img>backward3</img>
+    </character>
+</characters>
